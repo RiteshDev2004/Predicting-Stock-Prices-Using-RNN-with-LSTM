@@ -1,4 +1,4 @@
-# TA1 — Predicting Stock Prices Using RNN with LSTM
+# Predicting Stock Prices Using RNN with LSTM
 
 Predicts AAPL (S&P 500) daily close prices with a stacked LSTM.
 
